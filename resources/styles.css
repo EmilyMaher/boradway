@@ -1,0 +1,16 @@
+html {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.header {
+  background-image: url(images/the-flatiron-building.png)
+}
+
+.designed {
+  background-image: url(images/the-flatiron-building.png)
+}
+
+.nav {
+  font-size: 18px;
+}
