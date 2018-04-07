@@ -3,6 +3,24 @@ html {
   font-family: Helvetica;
 }
 
+h1 {
+  font-size: 70px;
+  color: white;
+}
+
+a {
+  color: White;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.innewyork {
+  color: white;
+}
+
 .header {
   background-image: url(images/the-flatiron-building.png)
 }
@@ -13,4 +31,12 @@ html {
 
 .nav {
   font-size: 18px;
+  color: white;
+}
+
+.footer {
+  text-align: left;
+  font-size: 11px;
+  background-color: dimgray;
+  color: White;
 }
