@@ -8,6 +8,10 @@ h1 {
   color: white;
 }
 
+h3 {
+  font-size: 32px;
+}
+
 a {
   color: White;
 }
@@ -15,6 +19,10 @@ a {
 h4 {
   font-size: 23px;
   font-weight: bold;
+}
+
+p {
+  font-size: 14px;
 }
 
 .innewyork {
